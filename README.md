@@ -1,1 +1,0 @@
-# sampleLinux1
