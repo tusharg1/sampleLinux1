@@ -1,2 +1,2 @@
 pwd
-ls -lagh
+ls -lagh $1
